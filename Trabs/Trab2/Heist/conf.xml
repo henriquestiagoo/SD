@@ -1,0 +1,30 @@
+<conf>
+  <role id="Conf">
+    <host>l040101-ws01.ua.pt</host>
+    <port>22130</port>
+  </role>
+  <role id="GeneralRepository">
+    <host>l040101-ws03.ua.pt</host>
+    <port>22130</port>
+  </role>
+  <role id="AssaultParty0">
+    <host>l040101-ws04.ua.pt</host>
+    <port>22130</port>
+  </role>
+  <role id="AssaultParty1">
+    <host>l040101-ws05.ua.pt</host>
+    <port>22130</port>
+  </role>
+  <role id="ControlAndCollectionSite">
+    <host>l040101-ws07.ua.pt</host>
+    <port>22130</port>
+  </role>
+  <role id="ConcentrationSite">
+    <host>l040101-ws09.ua.pt</host>
+    <port>22130</port>
+  </role>
+  <role id="Museum">
+    <host>l040101-ws10.ua.pt</host>
+    <port>22130</port>
+  </role>
+</conf>

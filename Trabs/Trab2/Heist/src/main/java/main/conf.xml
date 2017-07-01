@@ -1,0 +1,31 @@
+
+<conf>
+  <role id="Conf">
+    <host>localhost</host>
+    <port>5008</port>
+  </role>
+  <role id="AssaultParty0">
+    <host>localhost</host>
+    <port>5006</port>
+  </role>
+  <role id="AssaultParty1">
+    <host>localhost</host>
+    <port>5007</port>
+  </role>
+  <role id="GeneralRepository">
+    <host>localhost</host>
+    <port>5004</port>
+  </role>
+  <role id="ConcentrationSite">
+    <host>localhost</host>
+    <port>5000</port>
+  </role>
+  <role id="ControlAndCollectionSite">
+    <host>localhost</host>
+    <port>5001</port>
+  </role>
+  <role id="Museum">
+    <host>localhost</host>
+    <port>5003</port>
+  </role>
+</conf>
