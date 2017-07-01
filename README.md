@@ -1,2 +1,2 @@
 # SD
-Sistemas Distribuidos 2016/2017
+Distributed Systems 2016/2017
