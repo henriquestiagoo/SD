@@ -1,0 +1,25 @@
+<conf>
+  <role id="Rmi">
+	<nameEntry>RegisterHandler</nameEntry>
+    <host>l040101-ws01.ua.pt</host>
+    <port>22190</port>
+  </role>
+  <role id="GeneralRepository">
+	<nameEntry>GeneralRepository</nameEntry>
+  </role>
+  <role id="AssaultParty0">
+	<nameEntry>AssaultParty0</nameEntry>
+  </role>
+  <role id="AssaultParty1">
+	<nameEntry>AssaultParty1</nameEntry>
+  </role>
+  <role id="ControlAndCollectionSite">
+	<nameEntry>controlAndCollectionSite</nameEntry>
+  </role>
+  <role id="ConcentrationSite">
+	<nameEntry>concentrationSite</nameEntry>
+  </role>
+  <role id="Museum">
+	<nameEntry>Museum</nameEntry>
+  </role>
+</conf>
